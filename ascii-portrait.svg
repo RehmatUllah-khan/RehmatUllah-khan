@@ -231,31 +231,31 @@
 </g>
 </g></g><g id="wizora-layer" opacity="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.5;0.92;1" dur="10s" repeatCount="indefinite"/>
 <g clip-path="url(#w0)">
-<text x="33" y="170" font-size="20" fill="#58a6ff" xml:space="preserve">█   █ █████ █████  ███  ████   ███</text>
+<text x="33" y="170" font-size="20" fill="#c9d1d9" xml:space="preserve">█   █ █████ █████  ███  ████   ███</text>
 <rect x="0" y="151" width="7" height="24" fill="#58a6ff"><animate attributeName="x" from="0" to="486" dur="0.3s" begin="5.05s" fill="freeze"/><animate attributeName="opacity" from="1" to="0" dur="0.01s" begin="5.35s" fill="freeze"/></rect>
 </g>
 <g clip-path="url(#w1)">
-<text x="33" y="196" font-size="20" fill="#58a6ff" xml:space="preserve">█   █   █       █ █   █ █   █ █   █</text>
+<text x="33" y="196" font-size="20" fill="#c9d1d9" xml:space="preserve">█   █   █       █ █   █ █   █ █   █</text>
 <rect x="0" y="177" width="7" height="24" fill="#58a6ff"><animate attributeName="x" from="0" to="486" dur="0.3s" begin="5.13s" fill="freeze"/><animate attributeName="opacity" from="1" to="0" dur="0.01s" begin="5.43s" fill="freeze"/></rect>
 </g>
 <g clip-path="url(#w2)">
-<text x="33" y="222" font-size="20" fill="#58a6ff" xml:space="preserve">█   █   █      █  █   █ █   █ █   █</text>
+<text x="33" y="222" font-size="20" fill="#c9d1d9" xml:space="preserve">█   █   █      █  █   █ █   █ █   █</text>
 <rect x="0" y="203" width="7" height="24" fill="#58a6ff"><animate attributeName="x" from="0" to="486" dur="0.3s" begin="5.21s" fill="freeze"/><animate attributeName="opacity" from="1" to="0" dur="0.01s" begin="5.51s" fill="freeze"/></rect>
 </g>
 <g clip-path="url(#w3)">
-<text x="33" y="248" font-size="20" fill="#58a6ff" xml:space="preserve">█   █   █     █   █   █ ████  █████</text>
+<text x="33" y="248" font-size="20" fill="#c9d1d9" xml:space="preserve">█   █   █     █   █   █ ████  █████</text>
 <rect x="0" y="229" width="7" height="24" fill="#58a6ff"><animate attributeName="x" from="0" to="486" dur="0.3s" begin="5.29s" fill="freeze"/><animate attributeName="opacity" from="1" to="0" dur="0.01s" begin="5.59s" fill="freeze"/></rect>
 </g>
 <g clip-path="url(#w4)">
-<text x="33" y="274" font-size="20" fill="#58a6ff" xml:space="preserve">█ █ █   █    █    █   █ █ █   █   █</text>
+<text x="33" y="274" font-size="20" fill="#c9d1d9" xml:space="preserve">█ █ █   █    █    █   █ █ █   █   █</text>
 <rect x="0" y="255" width="7" height="24" fill="#58a6ff"><animate attributeName="x" from="0" to="486" dur="0.3s" begin="5.37s" fill="freeze"/><animate attributeName="opacity" from="1" to="0" dur="0.01s" begin="5.67s" fill="freeze"/></rect>
 </g>
 <g clip-path="url(#w5)">
-<text x="33" y="300" font-size="20" fill="#58a6ff" xml:space="preserve">██ ██   █   █     █   █ █  █  █   █</text>
+<text x="33" y="300" font-size="20" fill="#c9d1d9" xml:space="preserve">██ ██   █   █     █   █ █  █  █   █</text>
 <rect x="0" y="281" width="7" height="24" fill="#58a6ff"><animate attributeName="x" from="0" to="486" dur="0.3s" begin="5.45s" fill="freeze"/><animate attributeName="opacity" from="1" to="0" dur="0.01s" begin="5.75s" fill="freeze"/></rect>
 </g>
 <g clip-path="url(#w6)">
-<text x="33" y="326" font-size="20" fill="#58a6ff" xml:space="preserve">█   █ █████ █████  ███  █   █ █   █</text>
+<text x="33" y="326" font-size="20" fill="#c9d1d9" xml:space="preserve">█   █ █████ █████  ███  █   █ █   █</text>
 <rect x="0" y="307" width="7" height="24" fill="#58a6ff"><animate attributeName="x" from="0" to="486" dur="0.3s" begin="5.53s" fill="freeze"/><animate attributeName="opacity" from="1" to="0" dur="0.01s" begin="5.83s" fill="freeze"/></rect>
 </g>
 <g clip-path="url(#w7)">
