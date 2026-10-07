@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="222" viewBox="0 0 490 222" role="img" aria-label="info card">
+<defs>
+<filter id="glow-green" x="-150%" y="-150%" width="400%" height="400%">
+<feGaussianBlur stdDeviation="2.2" result="blur"/>
+<feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<clipPath id="trow0"><rect x="22" y="61" width="448" height="22">
+<animate attributeName="width" values="0;448;448" keyTimes="0;0.1333;1" dur="12.0s" begin="0.60s" repeatCount="indefinite"/>
+</rect></clipPath>
+<clipPath id="trow1"><rect x="22" y="87" width="448" height="22">
+<animate attributeName="width" values="0;448;448" keyTimes="0;0.2333;1" dur="12.0s" begin="1.80s" repeatCount="indefinite"/>
+</rect></clipPath>
+<clipPath id="trow2"><rect x="22" y="113" width="448" height="22">
+<animate attributeName="width" values="0;448;448" keyTimes="0;0.3333;1" dur="12.0s" begin="3.00s" repeatCount="indefinite"/>
+</rect></clipPath>
+<clipPath id="trow3"><rect x="22" y="139" width="448" height="22">
+<animate attributeName="width" values="0;448;448" keyTimes="0;0.4333;1" dur="12.0s" begin="4.20s" repeatCount="indefinite"/>
+</rect></clipPath>
+<clipPath id="trow4"><rect x="22" y="165" width="448" height="22">
+<animate attributeName="width" values="0;448;448" keyTimes="0;0.5333;1" dur="12.0s" begin="5.40s" repeatCount="indefinite"/>
+</rect></clipPath>
+<clipPath id="trow5"><rect x="22" y="191" width="448" height="22">
+<animate attributeName="width" values="0;448;448" keyTimes="0;0.6500;1" dur="12.0s" begin="6.60s" repeatCount="indefinite"/>
+</rect></clipPath>
+</defs>
+<rect x="1" y="1" width="488" height="220" rx="8" fill="#0d1117" stroke="#30363d"/>
+<circle cx="22" cy="22" r="6" fill="#ff5f57"/>
+<circle cx="40" cy="22" r="6" fill="#febc2e"/>
+<circle cx="58" cy="22" r="6" fill="#28c840" filter="url(#glow-green)"><animate attributeName="opacity" values="1;0.5;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="245.0" y="27" text-anchor="middle" fill="#58a6ff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" font-weight="bold">rehmat@github: ~</text>
+<line x1="22" y1="44" x2="468" y2="44" stroke="#30363d"/>
+<g clip-path="url(#trow0)" opacity="0">
+<animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.02;0.8333;0.9000;1" dur="12.0s" begin="0.60s" repeatCount="indefinite"/>
+<g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13">
+<text x="22" y="78" fill="#ffa657">➜</text>
+<text x="42" y="78" fill="#7ee787" font-weight="bold">Role</text>
+<text x="114" y="78" fill="#c9d1d9">Co-Founder @ Wizora Studio</text>
+</g></g>
+<rect x="22" y="65" width="7" height="15" fill="#7ee787" opacity="0">
+<animate attributeName="x" values="22;470;470" keyTimes="0;0.0833;1" dur="12.0s" begin="0.60s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.0833;0.0883;1" dur="12.0s" begin="0.60s" repeatCount="indefinite"/>
+</rect>
+<g clip-path="url(#trow1)" opacity="0">
+<animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.02;0.8333;0.9000;1" dur="12.0s" begin="1.80s" repeatCount="indefinite"/>
+<g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13">
+<text x="22" y="104" fill="#ffa657">➜</text>
+<text x="42" y="104" fill="#7ee787" font-weight="bold">Focus</text>
+<text x="114" y="104" fill="#c9d1d9">Websites that sell · SaaS · AI automation</text>
+</g></g>
+<rect x="22" y="91" width="7" height="15" fill="#7ee787" opacity="0">
+<animate attributeName="x" values="22;470;470" keyTimes="0;0.0833;1" dur="12.0s" begin="1.80s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.0833;0.0883;1" dur="12.0s" begin="1.80s" repeatCount="indefinite"/>
+</rect>
+<g clip-path="url(#trow2)" opacity="0">
+<animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.02;0.8333;0.9000;1" dur="12.0s" begin="3.00s" repeatCount="indefinite"/>
+<g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13">
+<text x="22" y="130" fill="#ffa657">➜</text>
+<text x="42" y="130" fill="#79c0ff" font-weight="bold">Stack</text>
+<text x="114" y="130" fill="#c9d1d9">Next.js · TypeScript · React · Tailwind</text>
+</g></g>
+<rect x="22" y="117" width="7" height="15" fill="#7ee787" opacity="0">
+<animate attributeName="x" values="22;470;470" keyTimes="0;0.0833;1" dur="12.0s" begin="3.00s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.0833;0.0883;1" dur="12.0s" begin="3.00s" repeatCount="indefinite"/>
+</rect>
+<g clip-path="url(#trow3)" opacity="0">
+<animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.02;0.8333;0.9000;1" dur="12.0s" begin="4.20s" repeatCount="indefinite"/>
+<g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13">
+<text x="22" y="156" fill="#ffa657">➜</text>
+<text x="42" y="156" fill="#d2a8ff" font-weight="bold">Based</text>
+<text x="114" y="156" fill="#c9d1d9">Karachi, PK  →  working worldwide</text>
+</g></g>
+<rect x="22" y="143" width="7" height="15" fill="#7ee787" opacity="0">
+<animate attributeName="x" values="22;470;470" keyTimes="0;0.0833;1" dur="12.0s" begin="4.20s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.0833;0.0883;1" dur="12.0s" begin="4.20s" repeatCount="indefinite"/>
+</rect>
+<g clip-path="url(#trow4)" opacity="0">
+<animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.02;0.8333;0.9000;1" dur="12.0s" begin="5.40s" repeatCount="indefinite"/>
+<g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13">
+<text x="22" y="182" fill="#ffa657">➜</text>
+<text x="42" y="182" fill="#ffa657" font-weight="bold">Site</text>
+<text x="114" y="182" fill="#c9d1d9">wizora.studio</text>
+</g></g>
+<rect x="22" y="169" width="7" height="15" fill="#7ee787" opacity="0">
+<animate attributeName="x" values="22;470;470" keyTimes="0;0.0833;1" dur="12.0s" begin="5.40s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.0833;0.0883;1" dur="12.0s" begin="5.40s" repeatCount="indefinite"/>
+</rect>
+<g clip-path="url(#trow5)" opacity="0">
+<animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.02;0.8333;0.9000;1" dur="12.0s" begin="6.60s" repeatCount="indefinite"/>
+<g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13">
+<text x="22" y="208" fill="#ffa657">➜</text>
+<text x="42" y="208" fill="#8b949e" font-weight="bold">Ask</text>
+<text x="114" y="208" fill="#c9d1d9">"I turn visitors into customers."</text>
+</g></g>
+<rect x="22" y="195" width="7" height="15" fill="#7ee787" opacity="0">
+<animate attributeName="x" values="22;470;470" keyTimes="0;0.1000;1" dur="12.0s" begin="6.60s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.1000;0.1050;1" dur="12.0s" begin="6.60s" repeatCount="indefinite"/>
+</rect>
+<g opacity="0">
+<animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.6583;0.8333;0.9000;1" dur="12.0s" begin="0s" repeatCount="indefinite"/>
+<rect x="360" y="195" width="7" height="15" fill="#7ee787"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
