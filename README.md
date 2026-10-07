@@ -31,9 +31,9 @@
 <br><br>
 
 
-<a href="https://www.linkedin.com/in/rehmat-ullah-khan-29a77b41a/"><img src="https://img.shields.io/badge/LinkedIn-Rehmat_Ullah_Khan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/wizorastudio/"><img src="https://img.shields.io/badge/Instagram-@wizorastudio-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.facebook.com/profile.php?id=61585766231343"><img src="https://img.shields.io/badge/Facebook-Wizora_Studio-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.linkedin.com/in/rehmat-ullah-khan-29a77b41a/"><img src="./badge-linkedin.svg" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/wizorastudio/"><img src="./badge-instagram.svg" alt="Instagram"/></a>
+<a href="https://www.facebook.com/profile.php?id=61585766231343"><img src="./badge-facebook.svg" alt="Facebook"/></a>
 
 
 </div>
