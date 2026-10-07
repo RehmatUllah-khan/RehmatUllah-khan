@@ -59,9 +59,10 @@ def render(grid, out):
     for i, c in enumerate(PALETTE):
         p.append(f'<rect x="{lx + 36 + i * 15}" y="{ly}" width="11" height="11" rx="2.5" fill="{c}"/>')
     p.append(f'<text x="{lx + 36 + 5 * 15 + 6}" y="{ly + 9}" fill="{DIM}" font-size="11" font-family="ui-monospace, monospace">More</text>')
+    day_word = "day" if active == 1 else "days"
     p.append(
         f'<text x="12" y="{H - 24}" fill="{FG}" font-size="12" font-family="ui-monospace, monospace">'
-        f"{active} active days in the last year · refreshes daily</text>"
+        f"{active} active {day_word} in the last year · refreshes daily</text>"
     )
     p.append("</svg>")
     open(out, "w").write("\n".join(p))
