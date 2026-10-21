@@ -177,7 +177,7 @@
 <rect class="cell" x="694" y="42" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.918s"><title>2026-09-29</title></rect>
 <rect class="cell" x="708" y="42" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.936s"><title>2026-10-06</title></rect>
 <rect class="cell" x="722" y="42" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay: 0.954s"><title>2026-10-13</title></rect>
-<rect class="cell" x="736" y="42" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.972s"><title>2026-10-20</title></rect>
+<rect class="cell" x="736" y="42" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay: 0.972s"><title>2026-10-20</title></rect>
 <rect class="cell" x="8" y="56" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.054s"><title>2025-10-22</title></rect>
 <rect class="cell" x="22" y="56" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.072s"><title>2025-10-29</title></rect>
 <rect class="cell" x="36" y="56" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.090s"><title>2025-11-05</title></rect>
@@ -230,6 +230,7 @@
 <rect class="cell" x="694" y="56" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.936s"><title>2026-09-30</title></rect>
 <rect class="cell" x="708" y="56" width="11" height="11" rx="2.5" fill="#39d353" style="animation-delay: 0.954s"><title>2026-10-07</title></rect>
 <rect class="cell" x="722" y="56" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay: 0.972s"><title>2026-10-14</title></rect>
+<rect class="cell" x="736" y="56" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.990s"><title>2026-10-21</title></rect>
 <rect class="cell" x="8" y="70" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.072s"><title>2025-10-23</title></rect>
 <rect class="cell" x="22" y="70" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.090s"><title>2025-10-30</title></rect>
 <rect class="cell" x="36" y="70" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay: 0.108s"><title>2025-11-06</title></rect>
@@ -394,5 +395,5 @@
 <rect x="702" y="128" width="11" height="11" rx="2.5" fill="#39d353"/>
 <text x="723" y="137" fill="#8b949e" font-size="11" font-family="ui-monospace, monospace">More</text>
 <circle cx="18" cy="134" r="3" fill="#39d353"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
-<text x="30" y="138" fill="#c9d1d9" font-size="12" font-family="ui-monospace, monospace">14 active days in the last year · refreshes daily</text>
+<text x="30" y="138" fill="#c9d1d9" font-size="12" font-family="ui-monospace, monospace">15 active days in the last year · refreshes daily</text>
 </svg>
